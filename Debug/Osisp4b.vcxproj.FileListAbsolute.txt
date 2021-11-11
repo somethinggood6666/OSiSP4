@@ -1,0 +1,3 @@
+F:\Programs\VSProjects\BSUIR\Osisp4b\Debug\Osisp4b.exe
+F:\Programs\VSProjects\BSUIR\Osisp4b\Debug\Osisp4b.pdb
+d:\УНИВЕР\Ваня_Лабс\Osisp4b\Debug\Osisp4b.exe
